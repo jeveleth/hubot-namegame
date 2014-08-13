@@ -21,14 +21,16 @@
   },
 
   "dependencies": {
-    "coffee-script": "~1.6"
+      "coffee-script": "~1.6"
   },
 
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
-    "sinon": "*"
+    "sinon": "*",
+    "commander": "2.3.0",
+    "glob": "*"
   },
 
   "main": "index.coffee",
