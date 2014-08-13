@@ -13,11 +13,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "https://github.com/jeveleth/hubot-namegame"
   },
 
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/jeveleth/hubot-namegame/issues"
   },
 
   "dependencies": {
