@@ -21,11 +21,14 @@
   },
 
   "dependencies": {
-    "coffee-script": "~1.6"
+      "coffee-script": "~1.6"
+      "hubot": ">= 2.5.1",
+      "hubot-scripts": ">= 2.4.2",
+      "hubot-hipchat": "~2.5.1-5"
   },
 
   "devDependencies": {
-    "mocha": "*",
+    "mocha "*",
     "chai": "*",
     "sinon-chai": "*",
     "sinon": "*"
