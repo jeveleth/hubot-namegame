@@ -4,4 +4,4 @@ A namegame package for Hubot
 
 ## Install
 
-TBA
+TBA, but node module forthcoming.
